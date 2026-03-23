@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'IBMPlexSans';
+  src: url('../fonts/IBMPlexSans.ttf') format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: IBMPlexSans, sans-serif;
+}
+
+html {
+  font-size: 10px;
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  overflow: hidden;
+  background-color: var(--bg-page);
+}
+
+button {
+  padding: var(--sm) var(--md);
+}

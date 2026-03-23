@@ -1,3 +1,4 @@
 .mainContainer {
-  color: red;
+  font-size: 20px;
+  color: var(--white);
 }

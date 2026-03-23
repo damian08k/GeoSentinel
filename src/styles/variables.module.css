@@ -1,2 +1,44 @@
 :root {
+  /* COLORS */
+
+  /* backgrounds */
+  --bg-page: #0f172a;
+  --bg-content: #0f1625;
+  --bg-card: #1b2536;
+  --bg-input: #131b2b;
+
+  /* statuses */
+  --change-status: #16809b;
+  --open: #30cd3f;
+  --in-progress: #46afe5;
+  --close: #cf2f29;
+
+  /* risk levels */
+  --low: #22c55e;
+  --medium: #eab308;
+  --high: #f97316;
+  --critical: #dc2626;
+
+  /* buttons */
+  --save: #1549a1;
+  --cancel: #3d4b66;
+  --change-status: #16829d;
+  --close-incident: #d02f29;
+
+  /* others */
+  --white: #fcfcfc;
+  --grey: #5c6679;
+  --hover: #0d9488;
+  --selected: #106282;
+
+  /* PADDINGS */
+  --xs: 4px;
+  --sm: 8px;
+  --md: 16px;
+  --lg: 24px;
+  --xl: 32px;
+  --xl2: 40px;
+  --xl3: 48px;
+
+  /*  */
 }
