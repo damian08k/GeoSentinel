@@ -12,7 +12,8 @@
     "baseUrl": "./",
     "paths": {
       "assets/*": ["src/assets/*"],
-      "tests/*": ["src/tests/*"]
+      "tests/*": ["src/tests/*"],
+      "components/*": ["src/components/*"]
     },
 
     /* Bundler mode */
